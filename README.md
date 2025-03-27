@@ -24,17 +24,29 @@
     ```bash
     cd bellissimo
     ```
-3. Установите зависимости с помощью Yarn:
+3. Установите зависимости с помощью `yarn` или `npm`:
     ```bash
-    yarn 
+    # Using yarn
+    yarn
+
+    # Using npm
+    npm install
     ```
 4. Запустите json-server:
     ```bash
+    # Using yarn
     yarn json-server ./src/data/main.json
+
+    # Using npm
+    npx json-server ./src/data/main.json
     ```
 5. Запустите приложение:
     ```bash
+    # Using yarn
     yarn dev
+
+    # Using npm
+    npm run dev
     ```
 
 Приложение будет доступно по адресу: [http://localhost:5173](http://localhost:5173).
