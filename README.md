@@ -18,7 +18,7 @@
 **Установка и запуск проекта**:
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/bellissimo.git
+    git clone https://github.com/batya002/bellissimo.git
     ```
 2. Перейдите в директорию проекта:
     ```bash
